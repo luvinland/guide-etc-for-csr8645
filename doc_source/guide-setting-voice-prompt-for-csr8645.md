@@ -24,4 +24,6 @@ CSR8645 이용한 VP 적용 방법 가이드.
 * SPI 연결 후, Download Prompts to Device → Yes → Waiting → End.
 
 ### Step 7. Binary `dump.xuv` 확보.
-* 참고. "C:\CSR\BlueSuite 2.6.2\nvscmd.exe" -usb 0 dump "dump.xuv"
+```c
+"C:\CSR\BlueSuite 2.6.2\nvscmd.exe" -usb 0 dump "dump.xuv"
+```

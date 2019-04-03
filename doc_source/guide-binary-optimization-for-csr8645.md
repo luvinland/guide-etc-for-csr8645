@@ -24,6 +24,7 @@ CSR8645 이용한 바이너리 최적화 방법 가이드. Release 버전의 불
 
 ### Step 6. CSR8645_default_vp.xuv 다운로드.
 * merge 한 CSR8645_default_vp.xuv 를 보드에 다운로드.
+
    ```
    "C:\CSR\BlueSuite 2.6.2\nvscmd.exe" -usb 0 burn "CSR8645_default_vp.xuv"
    ```
@@ -33,6 +34,7 @@ CSR8645 이용한 바이너리 최적화 방법 가이드. Release 버전의 불
 
 ### Step 8. Release Binary 확보.
 * dump 하여 신규버전 binary 획득.
+
    ```
    "C:\CSR\BlueSuite 2.6.2\nvscmd.exe" -usb 0 dump "release.xuv"
    ```

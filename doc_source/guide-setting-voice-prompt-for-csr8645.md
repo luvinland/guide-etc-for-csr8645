@@ -9,6 +9,7 @@ CSR8645 이용한 VP 적용 방법 가이드.
 
 ### Step 3. 파일명 관리
 * 파일명과 VP 매칭되도록 관리.
+
    ![01](https://user-images.githubusercontent.com/26864945/55456826-08068580-5623-11e9-920b-fb1611747700.PNG)
 
 ### Step 4. `Bootmode1.psr` 파일
@@ -16,6 +17,7 @@ CSR8645 이용한 VP 적용 방법 가이드.
 
 ### Step 5. Config Tool 적용
 * VP 탭에서 VP 수정, 추가, 또는 삭제.
+
    ![02](https://user-images.githubusercontent.com/26864945/55457002-911dbc80-5623-11e9-8c3b-6a05b21311ee.PNG)
    
 ### Step 6. Download
